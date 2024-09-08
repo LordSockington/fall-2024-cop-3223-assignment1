@@ -7,12 +7,12 @@
 // Purpose: This program calculates distance, perimeter, area, width, and height based on given points.
 // The main purpose of this assignment is to familiarize myself with fracturing my code in C.
 // 
-// Input: Enter x1: __, Enter y1: __, Enter x2: __, Enter y2: __
+// Input: Enter x1: ___, Enter y1: ___, Enter x2: ___, Enter y2: ___
 //
-// Output: Point #1 entered: x1 = __; y1= __, Point #2 entered: x2 = __; y2= __,
-// The distance between the two points is __, The perimeter of the city encompassed by your request is __,
-// The area of the city encompassed by your request is __, The width of the city encompassed by your request is __
-// The height of the city encompassed by your request is __
+// Output: Point #1 entered: x1 = ___; y1= ___, Point #2 entered: x2 = ___; y2= ___,
+// The distance between the two points is ___, The perimeter of the city encompassed by your request is ___,
+// The area of the city encompassed by your request is ___, The width of the city encompassed by your request is ___
+// The height of the city encompassed by your request is ___
 // //***
 
 #include <stdio.h>
